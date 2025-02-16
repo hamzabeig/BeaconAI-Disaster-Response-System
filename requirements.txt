@@ -1,0 +1,8 @@
+streamlit
+tweepy
+pandas
+random
+time
+speechrecognition
+langchain_community
+langchain
